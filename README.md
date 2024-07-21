@@ -1,4 +1,4 @@
-# DATA ENGINEER
+# Software Engineer
 
 ### Education
 Bachelor of Software Engineering Honours , Degree
