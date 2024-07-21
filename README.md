@@ -1,7 +1,5 @@
 # Software Engineer
 
-# Tharindu Kosgahakumbura - Portfolio
-
 ## About Me
 **Name:** K.N.M.Tharindu N.B Kosgahakumbura  
 **Location:** IdameGedara, Wellawela, Ettampitiya  
